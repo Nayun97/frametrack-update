@@ -1,10 +1,10 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "package": "frametrack-update.zip",
-  "sha256": "821eb7f57b50b75eae2d7805713b15fc3383fc3fa765933a3ea9d580dfe09878",
-  "size": 2770662,
-  "notes": "听力布局改版：逐字稿整句聚合、当前句卡片可折叠、播放区压缩放大逐字稿",
-  "updatedAt": "2026-11-13T23:54:23+08:00",
+  "sha256": "b8fbdbff976a4fdd99e3fdea8edf24fd89f7be9957f98ae3a11f9017fa54f376",
+  "size": 2770920,
+  "notes": "修复听力逐字稿分句错误：段内问号/句号现在正确切句，12-15 题与 Section C Directions 不再黏成整段",
+  "updatedAt": "2026-11-14T01:35:04+08:00",
   "files": [
     "视频录音逐字定位.html",
     "ink-bg.png",
