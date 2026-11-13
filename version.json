@@ -1,0 +1,14 @@
+{
+  "version": "1.0.2",
+  "package": "frametrack-update.zip",
+  "sha256": "821eb7f57b50b75eae2d7805713b15fc3383fc3fa765933a3ea9d580dfe09878",
+  "size": 2770662,
+  "notes": "听力布局改版：逐字稿整句聚合、当前句卡片可折叠、播放区压缩放大逐字稿",
+  "updatedAt": "2026-11-13T23:54:23+08:00",
+  "files": [
+    "视频录音逐字定位.html",
+    "ink-bg.png",
+    "ink-video.png",
+    "视频录音逐字定位-经典版.html"
+  ]
+}
